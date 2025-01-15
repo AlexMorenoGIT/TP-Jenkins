@@ -8,7 +8,7 @@ class RegisterTest extends TestCase
     protected function setUp(): void
     {
         // Setup test database connection
-        $this->con = mysqli_connect('127.0.0.1','db','root','passwd');
+        $this->con = mysqli_connect('db','root','passwd');;
 
         // Clean up test database before each test
         mysqli_query($this->con, "TRUNCATE TABLE users");
