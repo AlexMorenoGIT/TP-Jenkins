@@ -60,7 +60,7 @@
 <section class="defaultPadding mt4">
     <div class="container mrlAuto">
         <div class="heading">
-            <span>Shop By blablalblablalblablabla</span>
+            <span>Shop By</span>
             <h2>Categories</h2>
         </div>
         <div class="row mt3 ct-row">
